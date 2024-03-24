@@ -1,6 +1,7 @@
 # Dumisani Mathabathe 
 # March 2024
 # University of Cape Town (UCT)
+# This program determines the type of animal based on the details provided/inputed by the user
 
 # The biology expert
 print("Welcome to the Biology Expert")
