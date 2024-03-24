@@ -1,5 +1,7 @@
 # Dumisani Mathabathe
 # 21 March 2024
+# Program that counts the number of odd numbers inputed by the user
+# If the inputed number is not divisible by 2, then the number is odd.
 
 def count_odd_numbers(numbers):
     count = 0
